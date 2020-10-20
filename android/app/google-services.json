@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "570240105075",
+    "firebase_url": "https://estilos-flutter.firebaseio.com",
+    "project_id": "estilos-flutter",
+    "storage_bucket": "estilos-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570240105075:android:baeaadc1467f2d633c4806",
+        "android_client_info": {
+          "package_name": "com.styleProyect.estilos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570240105075-aj036q0bukqiu93igs33apl86qnan77m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa07NjDuokoyx1Op-ISu8c7Q7-oCoTWEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570240105075-aj036q0bukqiu93igs33apl86qnan77m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
